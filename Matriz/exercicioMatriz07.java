@@ -16,6 +16,7 @@ public class exercicioMatriz07 {
                 m1[i][j] = m[2-j][i];
             }
         }
+        
 
         System.out.println("Nova matriz(90º): " );
         for (i = 0; i < m.length; i++) {    
